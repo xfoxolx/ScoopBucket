@@ -1,9 +1,9 @@
 {
-    "version": "0.10.6",
+    "version": "1.8.2",
     "description": "办公软件 Office",
     "homepage": "https://office.com",
     "url": "https://download.microsoft.com/download/#/dl.7z_",
-    "hash": "927b17c1278b43c9b3715484e3086f7b8917f71fb7c2b19b75e41232e7e91a01",
+    "hash": "c55ad9fa780358533786983d142882034060633a2d35b732f200ef3e354f0248",
     "pre_install": [
         "$scriptdir = \"$bucketsdir\\rainte\\scripts\\office\"",
         "Copy-Item \"$scriptdir\\install.xml\" \"$dir\\\"",
